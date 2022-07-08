@@ -11,6 +11,7 @@ function MovieCard({
       <h2>{title}</h2>
       <small>{genres.join(", ")}</small>
     </div>
+    
   );
 }
 
